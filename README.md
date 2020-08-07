@@ -45,3 +45,5 @@ Temas principales:
 4. try-catch sin error
 5. `Object.fromEntries()`
 6. Symbol
+
+Mis apuntes: https://www.notion.so/Curso-de-ECMAScript6-c5552ae2f47c4411958493738f6f500e
