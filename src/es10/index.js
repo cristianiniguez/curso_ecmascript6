@@ -14,3 +14,17 @@ console.log(hello.trimStart());
 let hello = 'hello world      '
 console.log(hello);
 console.log(hello.trimEnd());
+
+try {
+    // Algo que podría lanzar un error
+} catch {
+    error
+}
+
+let entries = [['name', 'cristian'], ['age', 23]]
+console.log(Object.fromEntries(entries))
+
+let mySymbol = 'My Symbol';
+let symbol = Symbol(mySymbol);
+console.log(symbol);
+console.log(symbol.description);
